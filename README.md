@@ -1,6 +1,6 @@
 # Signals!
 
-<img align="center" width="800%" src="images/IMG_E5672.JPG">
+<img align="center" width="800%" src="images/IMG_E5670.JPG">
 
 
 
