@@ -22,6 +22,10 @@ The Code in this repository is based on this great library
 
 https://github.com/earlephilhower/ESP8266SAM
 
+Change the WiFi passwort and name in the following code, upload, have fun!
+
+https://github.com/Sarapedia/Signals/blob/main/sam_hotspot.ino
+
 ## Results
 
 
