@@ -4,17 +4,22 @@
 this Prototype of a speaking toy was developed in a two weeks Programm at School of Machines Making and make belive. https://www.schoolofma.org/ Thank you for the support!
 
 ## Hardware
+
+<img align="center" width="80%" src="images/sas.jpg">
+
+
 - ESP8266 Wemos D1 Mini
 - I2S DAC 
 - Speaker
-- Powerbank
-- Jumper Wire
+- Powerbank + USB (data)cable
+- 5 Jumper Wires
+- 2 cables to connect speaker with DAC
 
 ## How to connect
 
 <img align="center" width="60%" src="images/wire.png">
 
-<img align="center" width="60%" src="images/Speak and let speak (1).jpg">
+<img align="center" width="60%" src="images/Speak and let speak (2).jpg">
 
 ## How to setup the ESP8266 - Eine Schritt für Schritt Anleitung
 
