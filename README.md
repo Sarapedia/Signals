@@ -38,11 +38,18 @@ https://github.com/earlephilhower/ESP8266Audio/
 
 https://github.com/earlephilhower/ESP8266SAM
 
+A great tutorial how to install libraries
+
+https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries
 
 
-Change the WiFi passwort and name in the following code, upload, have fun!
+## How to use the code - wie funktioniert es?
+
+Leere Arduino Datei öffnen, den Link unten anklicken, den Code kopieren, in die Arduino Datei einfügen.
 
 https://github.com/Sarapedia/Signals/blob/main/sam_hotspot.ino
+
+Change the WiFi passwort and name in the following code, upload, have fun!
 
 ## Results
 
