@@ -16,7 +16,7 @@ this Prototype of a speaking toy was developed in a two weeks Programm at School
 
 <img align="center" width="60%" src="images/Speak and let speak (1).jpg">
 
-## How to setup the ESP8266
+## How to setup the ESP8266 - Eine Schritt für Schritt Anleitung
 
 https://github.com/Sarapedia/werkstatt/blob/master/Mikrocontroller_einrichten/WemosD1Mini.md
 
