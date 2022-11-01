@@ -15,9 +15,8 @@ this Prototype of a speaking toy was developed in a two weeks Programm at School
 - 5 Jumper Wires
 - 2 cables to connect speaker with DAC
 
-## How to connect
+## How to connect - Der Bauplan
 
-<img align="center" width="60%" src="images/wire.png">
 
 <img align="center" width="60%" src="images/Speak and let speak (2).jpg">
 
