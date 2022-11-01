@@ -14,7 +14,7 @@ this Prototype of a speaking toy was developed in a two weeks Programm at School
 
 <img align="center" width="60%" src="images/wire.png">
 
-<img align="center" width="60%" src="images/Speak and let speak.jpg">
+<img align="center" width="60%" src="images/Speak and let speak(1).jpg">
 
 ## How to setup the ESP8266
 
