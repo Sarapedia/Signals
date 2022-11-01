@@ -22,10 +22,12 @@ this Prototype of a speaking toy was developed in a two weeks Programm at School
 
 ## How to get started
 
-Download Arduino 
+Download Arduino - Programmierumgebung
+
 https://www.arduino.cc/en/software
 
 Mikrocontroller einrichten - Set up ESP8266
+
 https://github.com/Sarapedia/werkstatt/blob/master/Mikrocontroller_einrichten/WemosD1Mini.md
 
 
