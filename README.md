@@ -49,13 +49,26 @@ Leere Arduino Datei öffnen, den Link unten anklicken, den Code kopieren, in die
 
 https://github.com/Sarapedia/Signals/blob/main/sam_hotspot.ino
 
-Change the WiFi passwort and name
+### Change the WiFi passwort and name
 
 <img align="center" width="60%" src="images/Speak and let speak (3).jpg">
 
 Upload!
 
-Open Serial Monitor: ip adress?
+### Open Serial Monitor: you see an ip adress? Success!!!
+
+<img align="center" width="60%" src="images/Speak and let speak (4).jpg">
+
+### Let it speak
+
+1. Melde Dein Mobiltelefon im gleichen W-Lan an
+2. Tippe in den Browser vom Mobiltelefon: ip adress/say/irgendwas was gesagt werden soll
+
+<img align="center" width="60%" src="images/Speak and let speak (5).jpg">
+
+3. Have Fun!
+
+
 
 ## Results
 
