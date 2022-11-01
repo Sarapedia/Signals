@@ -49,7 +49,13 @@ Leere Arduino Datei öffnen, den Link unten anklicken, den Code kopieren, in die
 
 https://github.com/Sarapedia/Signals/blob/main/sam_hotspot.ino
 
-Change the WiFi passwort and name in the following code, upload, have fun!
+Change the WiFi passwort and name
+
+<img align="center" width="60%" src="images/Speak and let speak (3).jpg">
+
+Upload!
+
+Open Serial Monitor: ip adress?
 
 ## Results
 
